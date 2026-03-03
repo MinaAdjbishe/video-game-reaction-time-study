@@ -6,9 +6,9 @@
 # Load packages
 library(tidyverse)
 library(psych)       # for describeBy or describe_across
-library(psyntur)     # for tukeyboxplot (your code used this)
+library(psyntur)     # for tukeyboxplot 
 library(moments)     # if you need skew/kurtosis
-library(emmeans)     # optional, for post-hoc if needed
+library(emmeans)     # for post-hoc if needed
 
 # -----------------------------------------------------------
 # Descriptive statistics
