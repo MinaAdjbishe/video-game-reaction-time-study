@@ -1,0 +1,27 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.log
+
+# Cache
+.Rcache/
+cache/
+
+# Output files
+*.html
+*.pdf
+*.docx
+*.xlsx
+
+# MacOS system files
+.DS_Store
