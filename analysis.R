@@ -7,7 +7,7 @@
 library(tidyverse)
 library(psych)       # for describeBy or describe_across
 library(psyntur)     # for tukeyboxplot 
-library(moments)     # if you need skew/kurtosis
+library(moments)     # if I need skew/kurtosis
 library(emmeans)     # for post-hoc if needed
 
 # -----------------------------------------------------------
