@@ -36,15 +36,21 @@ The findings suggest that **general gaming experience alone may not reliably enh
 
 Future research should incorporate more detailed gaming measures and larger samples.
 
-## Visualisations  
-- Boxplot of reaction times by gaming experience  
-- Descriptive statistics table  
-- Reaction time distribution plots (if included)
+## Visualisations
 
-## Files  
-- **Impact_of_Video_Game_Experience_on_Response_Time.pdf** — full research report  
-- **plots/** — exported visualisations  
-- **README.md** — project overview  
+### Boxplot of Reaction Times by Gaming Experience
+![Reaction Time Boxplot](plots/boxplot_rt.png)
+
+---
+
+## Files
+
+- [analysis.R](analysis.R) — full R script containing descriptive statistics, boxplot, and ANOVA  
+- [Impact_of_Video_Game_Experience_on_Response_Time.pdf](Impact_of_Video_Game_Experience_on_Response_Time.pdf) — full written report  
+- [plots/](plots/) — folder containing exported visualisations  
+- [.gitignore](.gitignore) — keeps the repo clean  
+- [LICENSE](LICENSE) — project license  
+
 
 ## Full Project  
 [View on GitHub →](https://github.com/MinaAdjbishe/video-game-reaction-time-study)
